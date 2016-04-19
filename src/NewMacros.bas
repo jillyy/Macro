@@ -1,8 +1,13 @@
+'Date:04/14/2016
+'author: Jill
+'This is the body macro for IEEE two columns
+
+
 Attribute VB_Name = "NewMacros"
-Sub Macro1()
+Sub BodyMacro()
 Attribute Macro1.VB_ProcData.VB_Invoke_Func = "Normal.NewMacros.Macro1"
 '
-' Macro1 Macro
+' BodyMacro Macro
 '
 '
     Application.Move Left:=295, Top:=0
